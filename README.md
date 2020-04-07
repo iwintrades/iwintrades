@@ -1,0 +1,2 @@
+# iwintrades
+realtime strategy tester
