@@ -11,3 +11,4 @@ Main site: www.iwintrades.com
 LinkedIN: https://www.linkedin.com/in/peterskutaspykon
 Twitter: https://www.twitter.com/peterskuta
 
+We are working on a new pitch deck for the odds movement, but we have more than 18 already commited and ready to pay clients, who are already on the buyers list starting from small-cap sports betting traders to big and huge sports data providers
