@@ -6,3 +6,8 @@ The oddsmovement platform shows on all markets the directions and next odds in n
 Making ready API and webapp access for you and we can do a live demo of it
 
 This changes everything for the whole new world inside the sports betting industry worldwide and it's SPORTS-TECH industry
+
+Main site: www.iwintrades.com
+LinkedIN: https://www.linkedin.com/in/peterskutaspykon
+Twitter: https://www.twitter.com/peterskuta
+
